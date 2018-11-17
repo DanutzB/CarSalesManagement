@@ -1,3 +1,7 @@
+package order;
+
+import client.Client;
+
 import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.Scanner;
